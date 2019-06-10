@@ -1,6 +1,6 @@
 # To dear movie lovers
 
-This app is simple a trailer info tracker, I built this app to help myself get updated of the latest released movie trailers. I hope you guys can also enjoy it.
+This app is basically a trailer info tracker, I built this app to help myself get updated of the latest released movie trailers. I hope you guys can also enjoy it.
 
 ## How does it work
 
